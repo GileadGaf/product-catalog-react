@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/product-catalog-react/static/css/main.e7eb7f56.chunk.css",
-    "main.js": "/product-catalog-react/static/js/main.76abe3cd.chunk.js",
-    "main.js.map": "/product-catalog-react/static/js/main.76abe3cd.chunk.js.map",
+    "main.css": "/product-catalog-react/static/css/main.101470a1.chunk.css",
+    "main.js": "/product-catalog-react/static/js/main.294d467e.chunk.js",
+    "main.js.map": "/product-catalog-react/static/js/main.294d467e.chunk.js.map",
     "runtime-main.js": "/product-catalog-react/static/js/runtime-main.b3550542.js",
     "runtime-main.js.map": "/product-catalog-react/static/js/runtime-main.b3550542.js.map",
     "static/js/2.d181d0d4.chunk.js": "/product-catalog-react/static/js/2.d181d0d4.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.036270a2.chunk.js": "/product-catalog-react/static/js/3.036270a2.chunk.js",
     "static/js/3.036270a2.chunk.js.map": "/product-catalog-react/static/js/3.036270a2.chunk.js.map",
     "index.html": "/product-catalog-react/index.html",
-    "static/css/main.e7eb7f56.chunk.css.map": "/product-catalog-react/static/css/main.e7eb7f56.chunk.css.map",
+    "static/css/main.101470a1.chunk.css.map": "/product-catalog-react/static/css/main.101470a1.chunk.css.map",
     "static/js/2.d181d0d4.chunk.js.LICENSE.txt": "/product-catalog-react/static/js/2.d181d0d4.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/product-catalog-react/static/media/Poppins-Bold.404e299b.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.b3550542.js",
     "static/js/2.d181d0d4.chunk.js",
-    "static/css/main.e7eb7f56.chunk.css",
-    "static/js/main.76abe3cd.chunk.js"
+    "static/css/main.101470a1.chunk.css",
+    "static/js/main.294d467e.chunk.js"
   ]
 }
